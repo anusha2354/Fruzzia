@@ -1,0 +1,14 @@
+<LinearLayout android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:background="@android:color/holo_red_dark"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView
+        android:layout_width="199dp"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:text="Fruzzia"
+        android:textSize="60sp"
+        android:textColor="@android:color/white"/>
+</LinearLayout>

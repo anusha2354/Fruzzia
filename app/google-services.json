@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "505537881768",
+    "firebase_url": "https://fruzzia-2b319.firebaseio.com",
+    "project_id": "fruzzia-2b319",
+    "storage_bucket": "fruzzia-2b319.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:505537881768:android:781b34735c2a393c70449d",
+        "android_client_info": {
+          "package_name": "com.example.fruzzia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "505537881768-kjaal2ighmp8gcj2jhuttstk9gkqovvc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.fruzzia",
+            "certificate_hash": "22309f6a3e8f4980ff36346f09ef2a384a75f91c"
+          }
+        },
+        {
+          "client_id": "505537881768-l3qa0vpkf0bght4u0k9d310svhqldisq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDPjkJFf5og_84TELe-rLX5pp1MxguWexI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "505537881768-l3qa0vpkf0bght4u0k9d310svhqldisq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
